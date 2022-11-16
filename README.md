@@ -38,10 +38,10 @@
   <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="qniwwwersss@gmail.com">
+  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=qniwwwersss@gmail.com&tf=1">
     <img src="https://img.shields.io/badge/qniwwwersss@gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />  
 </a>
-  <a href="@usioa">
+  <a href="https://telegram.me/usioa">
     <img src="https://img.shields.io/badge/@usioa-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
 </div>
