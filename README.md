@@ -27,9 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40" />&nbsp;
 </div>
-                                                                                                                                                   
-  
---------------------------------------------------------
+                                                                                                                                                  
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/73220736/199696203-5b063f9d-6817-4520-82eb-624e6c730532.gif" width="250" height="250"/> 
 </div>
