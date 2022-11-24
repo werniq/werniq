@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/048ddef4ff373731a7e8e11452fcf0a7/tumblr_n54httDm0V1re72jio2_r2_1280.gifv" width="250" height="250" />
  </div>
-------------------
 <h1> 
   👩‍💻 About me:
 </h1>
