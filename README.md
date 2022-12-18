@@ -7,8 +7,9 @@
 <ul>
     <li>I’m coding and contributing to frontend and backend for building web applications.</li>
     <li>I am passionate about blockchain industry!</li>
-    <li>I am fast-learning, self-motivated, decisive and organized</li>
+    <li>I am fast-learning, self-motivated, decisive and organized.</li>
   </ul>
+
   
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
