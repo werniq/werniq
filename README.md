@@ -3,7 +3,7 @@
 <h1> 
   👩‍💻 About me:
 </h1>
-<h2>I am Backend Developer, from Ukraine</h2>
+<h2>I am Backend Developer</h2>
 <ul>
     <li>I’m coding and contributing to frontend and backend for building web applications.</li>
     <li>I am passionate about blockchain industry!</li>
