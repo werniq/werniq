@@ -1,5 +1,4 @@
-# Greetings, pilgrim
-# My name is Qniwers, nice to meet you!
+# Greetings, pilgrim 🤘:
 <h1> 
   👩‍💻 About me:
 </h1>
