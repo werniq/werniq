@@ -16,7 +16,7 @@
 
   
 ### :hammer_and_wrench: Languages and Tools :
--
+
 | <img src="https://img.shields.io/badge/-FrontEnd-orange" width=90 height=28 /> | <img src="https://img.shields.io/badge/-javascript-blueviolet" width=90 height=35 /> | <img src="https://img.shields.io/badge/-react-ff69b4" width=80 height=30 /> | <img src="https://img.shields.io/badge/-HTML-b7f0ad" width=80 height=28 /> | <img src="https://img.shields.io/badge/-CSS-b7f0ad" width=80 height=28 />  |
 | ------------- | ------------------- | ----------------| ----------------|  ----------------|
 | <img src="https://img.shields.io/badge/-BackEnd-orange" width=90 height=28 />  | <img src="https://img.shields.io/badge/-Golang(Chi, Gin)-blueviolet" width=120 height=30 />    | <img src="https://img.shields.io/badge/-Python(Django)-9893da" width=120 height=30 />  |
