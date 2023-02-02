@@ -11,7 +11,6 @@
 <ul>
     <li>I’m coding and contributing to frontend and backend for building web applications.</li>
     <li>I am passionate about blockchain industry!</li>
-    <li>I have experience in developing, testing software(javascript, golang)</li>
     <li>Willing to learn, improve myself, and make mistakes</li>
     
 </ul>
