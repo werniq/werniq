@@ -11,11 +11,13 @@
 <p>Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Enthusiast in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Proficient in Golang, React, JavaScript, Solidity, HTML, CSS, and Postgres.</p>
 
 <div align="center">
+ <hr>
      <p> <a href="https://github.com/werniq/werniq/files/11059733/Oleksandr_Matviienko_-_Back_End_Developer.pdf"> My resume  </a> </p>
      <p> <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248"/> LinkedIn </a> </p>
      <p> <a href="https://telegram.me/usioa"> Telegram </a> </p> 
      <p> <a href="https://wakatime.com/@werniq"> WakaTime </a> </p>
      <p> <a href="https://leetcode.com/qniwwwerss/"> LeetCode </a> </p>
+  <hr>
  </div>
 
   
