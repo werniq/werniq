@@ -1,6 +1,6 @@
 
 # Greetings, pilgrim 🤘:
- <div id="header" align="right">
+ <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/73220736/199696203-5b063f9d-6817-4520-82eb-624e6c730532.gif" width="250" height="250"/> 
 </div>
 <h1> 
