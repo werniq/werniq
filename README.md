@@ -26,7 +26,7 @@
 | <img src="https://img.shields.io/badge/-BackEnd-orange" width=90 height=28 />  | <img src="https://img.shields.io/badge/-Golang(Chi, Gin)-blueviolet" width=120 height=30 />    | <img src="https://img.shields.io/badge/-Python(Django)-crimson" width=120 height=30 />  |
 | <img src="https://img.shields.io/badge/-BlockChain-orange" width=90 height=28 /> | <img src="https://img.shields.io/badge/-GoEthereum-blueviolet" width=110 height=30 /> | <img src="https://img.shields.io/badge/-Hardhat-crimson" width=90 height=30 /> |  <img src="https://img.shields.io/badge/-Solidity-adf5ff" width=90 height=30 /> |      <img src="https://img.shields.io/badge/-Truffle-f1d302" width=90 height=30 /> | | ----------------- | ----------------- |-----------------| ----------------| ----------------| ----------------| ----------------|      
 <img src="https://img.shields.io/badge/-DevOpsTools-orange" width=120 height=30 /> | <img src="https://img.shields.io/badge/-Docker-blueviolet" width=70 height=30 /> |  <img src="https://img.shields.io/badge/-Jenkins-crimson" width=70 height=30 /> |  <img src="https://img.shields.io/badge/-Gitlab-adf5ff" width=70 height=30 /> |
-| <img src="https://img.shields.io/badge/-Additional Tools-orange" width=120 height=28 /> | Amazon Web Serbices, Git |   |  
+| <img src="https://img.shields.io/badge/-Additional Tools-orange" width=120 height=28 /> | Amazon Web Serbices, Git |  Melody, Gorm  | Cloud Databases | Unit, Behavior, Integration  testing
  
 
 ### 
