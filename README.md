@@ -35,4 +35,4 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=werniq&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werniq&layout=compact&theme=vision-friendly-dark)](https://github.com/werniq/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werniq&show_icons=true&theme=radical)
-
+![snake gif](https://github.com/werniq/werniq/blob/output/github-contribution-grid-snake.gif)
