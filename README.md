@@ -15,6 +15,8 @@
      <p> <a href="https://telegram.me/usioa"> Telegram </a> </p> 
      <p> <a href="https://wakatime.com/@werniq"> WakaTime </a> </p>
      <p> <a href="https://leetcode.com/qniwwwerss/"> LeetCode </a> </p>
+     <p> <a href="mailto:qniwwwersss@gmail.com"> Gmail </a>
+
   <hr>
  </div>
 
