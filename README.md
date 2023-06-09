@@ -1,8 +1,9 @@
 
 # Greetings, pilgrim 🤘:
 ![snake gif](https://github.com/werniq/werniq/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
 <a href="https://wakatime.com/@d4bdb2a4-e437-4efb-9727-fce45ef4bc37"><img src="https://wakatime.com/badge/user/d4bdb2a4-e437-4efb-9727-fce45ef4bc37.svg" alt="Total time coded since Jan 12 2023" /></a>
-
+</div>
 <h1> 
     👩‍💻 About me: 
 </h1>
