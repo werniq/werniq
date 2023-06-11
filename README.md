@@ -8,7 +8,7 @@
     👩‍💻 About me: 
 </h1>
 <h2>I am Backend Developer</h2>
-<p>Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Enthusiast in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Proficient in Golang, React, JavaScript, Solidity, HTML, CSS, and Postgres.</p>
+<p> As a full-stack developer proficient in both Golang and JavaScript, I possess a versatile skill set that allows me to handle end-to-end development tasks across the entire technology stack. With my expertise in Golang, and TypeScript, I am well-equipped to tackle both backend and frontend development requirements. Kindly ask you to visit my website to 'About' section, and after that to 'Portfolio' section to see my projects. At the bottom of the page you can find my resume, and contacts. </p>
 
 <div align="center">
  <hr>
