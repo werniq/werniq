@@ -13,7 +13,7 @@
 <div align="center">
  <hr>
      <p> <a href="https://werniq.github.io/"> My website </a> </p>
-     <p> <a href="https://github.com/werniq/werniq/files/11635377/Back-End-Developer-resume.pdf"> My resume  </a> </p>
+     <p> <a href="https://github.com/werniq/my-resume/blob/main/GoDeveloperResume.pdf"> My resume  </a> </p>
      <p> <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248"/> LinkedIn </a> </p>
      <p> <a href="https://telegram.me/usioa"> Telegram </a> </p> 
      <p> <a href="https://wakatime.com/@werniq"> WakaTime </a> </p>
