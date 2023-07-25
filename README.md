@@ -2,7 +2,6 @@
 # Greetings, pilgrim 🤘:
 ![snake gif](https://github.com/werniq/werniq/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
-<a href="https://wakatime.com/@d4bdb2a4-e437-4efb-9727-fce45ef4bc37"><img src="https://wakatime.com/badge/user/d4bdb2a4-e437-4efb-9727-fce45ef4bc37.svg" alt="Total time coded since Jan 12 2023" /></a>
 </div>
 <h1> 
     👩‍💻 About me: 
@@ -35,7 +34,3 @@
 | <img src="https://img.shields.io/badge/-Tools-orange" width=90 height=35 /> | <img src="https://img.shields.io/badge/-GoLand-blueviolet" width=90 height=35 /> | <img src="https://img.shields.io/badge/-Notion-crimson" width=65 height=30 /> | <img src="https://img.shields.io/badge/-Coolors.co-adf5ff" width=110 height=32 /> | <img src="https://img.shields.io/badge/-Postman-f1d302" width=90 height=30 /> |
  
 ### 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=werniq&theme=dark&background=000000)](https://git.io/streak-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werniq&layout=compact&theme=vision-friendly-dark)](https://github.com/werniq/github-readme-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werniq&show_icons=true&theme=radical)
-
