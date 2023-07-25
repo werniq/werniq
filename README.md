@@ -15,7 +15,6 @@
      <p> <a href="https://github.com/werniq/my-resume/blob/main/GoDeveloperResume.pdf"> My resume  </a> </p>
      <p> <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248"/> LinkedIn </a> </p>
      <p> <a href="https://telegram.me/usioa"> Telegram </a> </p> 
-     <p> <a href="https://wakatime.com/@werniq"> WakaTime </a> </p>
      <p> <a href="https://leetcode.com/qniwwwerss/"> LeetCode </a> </p>
      <p> <a href="mailto:qniwwwersss@gmail.com"> Gmail </a>
 
