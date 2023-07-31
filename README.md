@@ -1,8 +1,6 @@
 
 # Greetings, pilgrim 🤘:
-![snake gif](https://github.com/werniq/werniq/blob/output/github-contribution-grid-snake.gif)
-<div align="center">
-</div>
+
 <h1> 
     👩‍💻 About me: 
 </h1>
