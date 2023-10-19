@@ -33,18 +33,15 @@
 - <img src="https://img.shields.io/badge/Node.js?style=for-the-badge&logo=nodejs&logoColor=white" width=120 height=28 /> 
 
 #### Blockchain Technologies:
-- <img src="https://img.shields.io/badge/Blockchain-2F3134?style=for-the-badge&logo=blockchain-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Hardhat-2F3134?style=for-the-badge&logo=hardhat-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Solidity-2F3134?style=for-the-badge&logo=solidity-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Truffle-2F3134?style=for-the-badge&logo=truffle-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" width=120 height=28 /> 
 
 #### DevOps Tools:
-- <img src="https://img.shields.io/badge/DevOpsTools-2F3134?style=for-the-badge&logo=devops-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Jenkins-2F3134?style=for-the-badge&logo=jenkins-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Gitlab-2F3134?style=for-the-badge&logo=gitlab-logo&logoColor=white" width=120 height=28 /> 
 
 #### Additional Tools:
-- <img src="https://img.shields.io/badge/Additional Tools-2F3134?style=for-the-badge&logo=additional-tools-logo&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Melody, GORM-2F3134?style=for-the-badge&logo=melody-gorm-logo&logoColor=white" width=120 height=28 />
 
