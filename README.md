@@ -1,4 +1,3 @@
-
 # Greetings, pilgrim 🤘:
 
 <h1> 
@@ -20,14 +19,32 @@
  </div>
 
   
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
-| <img src="https://img.shields.io/badge/-FrontEnd-orange" width=90 height=28 /> | <img src="https://img.shields.io/badge/-JavaScript-blueviolet" width=90 height=35 /> | <img src="https://img.shields.io/badge/-React-crimson" width=65 height=30 /> | <img src="https://img.shields.io/badge/-HTML/CSS-adf5ff" width=110 height=32 /> |  <img src="https://img.shields.io/badge/-Flutter-f1d302" width=90 height=32 />  |
-| ------------- | ------------------- | ----------------| ----------------|  ----------------|
-| <img src="https://img.shields.io/badge/-BackEnd-orange" width=90 height=28 />  | <img src="https://img.shields.io/badge/-Golang(Chi, Gin)-blueviolet" width=120 height=30 />    | <img src="https://img.shields.io/badge/-Python(Django)-crimson" width=120 height=30 />  | <img src="https://img.shields.io/badge/-TypeScript-adf5ff" width=110 height=32 /> |
-| <img src="https://img.shields.io/badge/-BlockChain-orange" width=90 height=28 /> | <img src="https://img.shields.io/badge/-GoEthereum-blueviolet" width=110 height=30 /> | <img src="https://img.shields.io/badge/-Hardhat-crimson" width=90 height=30 /> |  <img src="https://img.shields.io/badge/-Solidity-adf5ff" width=90 height=30 /> |  <img src="https://img.shields.io/badge/-Truffle-f1d302" width=90 height=30 /> | | ----------------- | ----------------- |-----------------| ----------------| ----------------| ----------------| ----------------|      
-<img src="https://img.shields.io/badge/-DevOpsTools-orange" width=120 height=30 /> | <img src="https://img.shields.io/badge/-Docker-blueviolet" width=70 height=30 /> |  <img src="https://img.shields.io/badge/-Jenkins-crimson" width=70 height=30 /> |  <img src="https://img.shields.io/badge/-Gitlab-adf5ff" width=70 height=30 /> |
-| <img src="https://img.shields.io/badge/-Additional Tools-orange" width=120 height=28 /> | <img src="https://img.shields.io/badge/-AWS, GIT-blueviolet" width=90 height=35 /> | <img src="https://img.shields.io/badge/-Melody, GORM-crimson" width=120 height=35 />  |  <img src="https://img.shields.io/badge/-Cloud,Relational DB-adf5ff" width=150 height=35 /> |   <img src="https://img.shields.io/badge/-Unit, Behavioral Testing-f1d302" width=165 height=40 /> | 
-| <img src="https://img.shields.io/badge/-Tools-orange" width=90 height=35 /> | <img src="https://img.shields.io/badge/-GoLand-blueviolet" width=90 height=35 /> | <img src="https://img.shields.io/badge/-Notion-crimson" width=65 height=30 /> | <img src="https://img.shields.io/badge/-Coolors.co-adf5ff" width=110 height=32 /> | <img src="https://img.shields.io/badge/-Postman-f1d302" width=90 height=30 /> |
- 
-### 
+#### Front-end Technologies:
+- <img src="https://img.shields.io/badge/JavaScript-2F3134?style=for-the-badge&logo=Javascript&logoColor=white" width=150 height=28 />
+- <img src="https://img.shields.io/badge/TypeScript-2F3134?style=for-the-badge&logo=typescript&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/React-2F3134?style=for-the-badge&logo=react&logoColor=white" width=120 height=35 /> 
+- <img src="https://img.shields.io/badge/Flutter-2F3134?style=for-the-badge&logo=flutter&logoColor=white" width=120 height=28 /> 
+
+#### Back-end Technologies:
+- <img src="https://img.shields.io/badge/Golang-2F3134?style=for-the-badge&logo=go&logoColor=blue" width=120 height=28 />
+- <img src="https://img.shields.io/badge/Python-2F3134?style=for-the-badge&logo=python&logoColor=blue" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Node.js?style=for-the-badge&logo=nodejs&logoColor=white" width=120 height=28 /> 
+
+#### Blockchain Technologies:
+- <img src="https://img.shields.io/badge/Blockchain-2F3134?style=for-the-badge&logo=blockchain-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Hardhat-2F3134?style=for-the-badge&logo=hardhat-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Solidity-2F3134?style=for-the-badge&logo=solidity-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Truffle-2F3134?style=for-the-badge&logo=truffle-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" width=120 height=28 /> 
+
+#### DevOps Tools:
+- <img src="https://img.shields.io/badge/DevOpsTools-2F3134?style=for-the-badge&logo=devops-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Jenkins-2F3134?style=for-the-badge&logo=jenkins-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Gitlab-2F3134?style=for-the-badge&logo=gitlab-logo&logoColor=white" width=120 height=28 /> 
+
+#### Additional Tools:
+- <img src="https://img.shields.io/badge/Additional Tools-2F3134?style=for-the-badge&logo=additional-tools-logo&logoColor=white" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Melody, GORM-2F3134?style=for-the-badge&logo=melody-gorm-logo&logoColor=white" width=120 height=28 />
+
