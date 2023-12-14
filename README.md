@@ -24,11 +24,12 @@
 
 #### Back-end Technologies:
 - <img src="https://img.shields.io/badge/Golang-2F3134?style=for-the-badge&logo=go&logoColor=blue" width=120 height=28 />
+- <img src="https://img.shields.io/badge/Java-2F3134?style=for-the-badge&logo=spring&" width=90 height=28 />
 - <img src="https://img.shields.io/badge/Python-2F3134?style=for-the-badge&logo=python&logoColor=blue" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Node.js-2F3134?style=for-the-badge&logo=node.js&logoColor=white" width=120 height=28 /> 
 
 #### Blockchain Technologies:
-- <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" width=150 height=35 />
+- <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger" width=150 height=35 />
 - <img src="https://img.shields.io/badge/Solidity-2F3134?style=for-the-badge&logo=solidity&logoColor=white" width=120 height=28 />
 - <img src="https://img.shields.io/badge/Hardhat-2F3134?style=for-the-badge&logo=hardhat&logoColor=white" width=120 height=28 /> 
 - <img src="https://img.shields.io/badge/Truffle-2F3134?style=for-the-badge&logo=Truffle&logoColor=white" width=120 height=28 /> 
@@ -40,7 +41,7 @@
 - <img src="https://img.shields.io/badge/Flutter-2F3134?style=for-the-badge&logo=flutter&logoColor=white" width=120 height=28 /> 
 
 #### Aditional tools:
-- <img src="https://img.shields.io/badge/Jenkins-2F3134?style=for-the-badge&logo=jenkins-logo&logoColor=white" width=120 height=28 /> 
-- <img src="https://img.shields.io/badge/Gitlab-2F3134?style=for-the-badge&logo=gitlab-logo&logoColor=white" width=120 height=28 /> 
-- <img src="https://img.shields.io/badge/AWS-2F3134?style=for-the-badge&logo=aws&logoColor=white" width=80 height=28 /> 
+- <img src="https://img.shields.io/badge/Jenkins-2F3134?style=for-the-badge&logo=jenkins&" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/Gitlab-2F3134?style=for-the-badge&logo=gitlab&" width=120 height=28 /> 
+- <img src="https://img.shields.io/badge/AWS-2F3134?style=for-the-badge&logo=aws&" width=50 height=28 /> 
 
