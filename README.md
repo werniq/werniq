@@ -4,7 +4,7 @@
     👩‍💻 About me: 
 </h1>
 <p> I am experienced in each tool listed below. <br><br> <b>I am profficient in writing APIs and Microservices(using gRPC) in Golang, and currently discovering Java's abilitites. </b> <br>
-OS: Linux. <br> Knowledge of <b> TCP/IP, HTTP, TLS, REST </b>. Additionally, I have very good knowledge of <b> Bash scripting, Docker and unit testing.</b>  <br> 
+OS: Linux. <br> Knowledge of <b> TCP/IP, HTTP, TLS, REST, SSH, DNS</b>. Additionally, I have very good knowledge of <b> Bash scripting, Docker and unit testing.</b>  <br> 
 For Front-End, I use <b> React and JavaScript(TypeScript) </b>.  <br> 
 I am familiar with most of security tools like: <b> Firewall(and WAF), reverse, and forwarding proxy. </b>  <br> 
 For deployment I have used Heroku and AWS. 
