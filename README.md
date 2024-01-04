@@ -3,8 +3,13 @@
 <h1> 
     👩‍💻 About me: 
 </h1>
-<h2>I am Backend Developer</h2>
-<p> As a full-stack developer proficient in both Golang and JavaScript, I possess a versatile skill set that allows me to handle end-to-end development tasks across the entire technology stack. With my expertise in Golang, and TypeScript, I am well-equipped to tackle both backend and frontend development requirements. Kindly ask you to visit my website to 'About' section, and after that to 'Portfolio' section to see my projects. At the bottom of the page you can find my resume, and contacts. </p>
+<p> I am experienced in each tool listed below. <br><br> <b>I am profficient in writing APIs and Microservices(using gRPC) in Golang, and currently discovering Java's abilitites. </b> <br>
+OS: Linux. <br> Knowledge of <b> TCP/IP, HTTP, TLS, REST </b>. Additionally, I have very good knowledge of <b> Bash scripting, Docker and unit testing.</b>  <br> 
+For Front-End, I use <b> React and JavaScript(TypeScript) </b>.  <br> 
+I am familiar with most of security tools like: <b> Firewall(and WAF), reverse, and forwarding proxy. </b>  <br> 
+For deployment I have used Heroku and AWS. 
+
+ </p>
 
 <div align="center">
  <hr>
@@ -20,7 +25,6 @@
 
   
 ### :hammer_and_wrench: Languages and Tools:
-
 
 #### Back-end Technologies:
 - <img src="https://img.shields.io/badge/Golang-2F3134?style=for-the-badge&logo=go&logoColor=blue" width=120 height=28 />
