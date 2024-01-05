@@ -17,4 +17,3 @@ Telegram: <a href="https://t.me/usioa"> @werniq </a> <br>
 LinkedIn: <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248/"> Oleksandr Matviienko </a> <br>
 Email: <a href="mailto:qniwwwersss@gmail.com"> qniwwwersss@gmail.com </a> <br>
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werniq)](https://github.com/anuraghazra/github-readme-stats)
