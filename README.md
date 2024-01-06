@@ -1,6 +1,6 @@
 
 About me:
-- Working for Outsource ERP company.
+- Working for Outsource ERP company as Python Developer.
 - I am proficient in writing APIs and Microservices (using gRPC) in Golang. Additionally, I have very good knowledge of <b> Bash scripting, Docker and unit testing. </b>
 - Interested in Security, and DevOps fields (See: <a href="https://github.com/werniq/qni-tools" >here</a>)
 
