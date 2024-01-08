@@ -6,12 +6,12 @@ About me:
 
 
 ## Skills
-| Operating System | Languages | Networking | Front-End | Security | Deployment |
+| Operating System | Languages | Networking | Front-End | Blockchain | Deployment |
 |------------------|-----------|------------|-----------|----------|------------|
-| Ubuntu Linux     | Golang    | TCP/IP     | React     | Firewall | Heroku     |
-|                  | Java      | HTTP/S     | JavaScript (TypeScript) | WAF | AWS        |
-|                  | Python    | TLS        |           | Reverse Proxy |            |
-|                  | Node.js   | REST       |           | Forwarding Proxy |         |
+| Ubuntu Linux     | Golang    | TCP/IP     | React     | Hyperledger | Heroku     |
+|                  | Java      | HTTP/S     | JavaScript (TypeScript) | Ethereum | AWS        |
+|                  | Python    | TLS        |           | Solidity |            |
+|                  | Node.js   | REST       |           | Hardhat  |         |
 
 Telegram: <a href="https://t.me/usioa"> @werniq </a> <br>
 LinkedIn: <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248/"> Oleksandr Matviienko </a> <br>
