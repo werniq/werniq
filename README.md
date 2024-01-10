@@ -10,6 +10,7 @@ About me:
 | Operating System  | Ubuntu Linux, Kali                         |
 | Languages         | Golang, Java, Python, Node.js, JS          |
 | Blockchain        | Hyperledger, Ethereum, Solidity, Hardhat   |
+| Security          | Kali Linux. Firewall(WAF), reverse + forward proxy, IDS(working on IPS),          |
 | Networking        | TCP/IP, HTTP/S, TLS, UDP                   |
 | DevOps            | Docker, Linux, Gitlab, GH, Kubernetes      |
 | Front-End         | React, TypeScript                          |
