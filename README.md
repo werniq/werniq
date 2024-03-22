@@ -1,7 +1,7 @@
 
 About me:
 - Founder at OMT ERP
-- I am proficient in writing APIs and Microservices (using gRPC) in Golang. Additionally, I have very good knowledge of <b> Bash scripting, Docker and unit testing. </b>
+- I am proficient in writing APIs and Microservices (using gRPC) in Golang.
 - Interested in Security, and DevOps fields (See: <a href="https://github.com/werniq/qni-tools" >here</a>)
 
 ## Skills
