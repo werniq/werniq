@@ -16,7 +16,7 @@ About me:
 | Databases           | Postgres, MongoDB, LevelDB, Firebase       |
 | Deployment        | Heroku, AWS                                |
 | Currently Learning | Kubernetes, Java                                |
-| Other             | gRPC, Rest                                 |
+| Other             | gRPC, Rest, Protocol Buffers                           |
 
 
 Telegram: <a href="https://t.me/usioa"> @werniq </a> <br>
