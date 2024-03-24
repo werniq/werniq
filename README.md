@@ -15,7 +15,7 @@ About me:
 | Front-End          | React, TypeScript                          |
 | Databases           | Postgres, MongoDB, LevelDB, Firebase       |
 | Deployment        | Heroku, AWS                                |
-| Currently Learning | Kubernetes, Java                                |
+| Currently Learning | Rust                                |
 | Other             | gRPC, Rest, Protocol Buffers                           |
 
 
