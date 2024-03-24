@@ -7,12 +7,12 @@ About me:
 ## Skills
 | Domain            | Skills                                     |
 |-------------------|--------------------------------------------|
-| Operating System   | Ubuntu Linux, Kali                         |
-| Languages          | Golang, Java, Python, Node.js, JS          |
+| Operating Systems   | Ubuntu, Kali, Windows                         |
+| Languages          | Golang, Java, Python, JS/TS          |
 | Blockchain         | Hyperledger, Ethereum, Solidity, Hardhat   |
-| Security           | Kali Linux. Firewall(WAF), reverse + forward proxy, IDS(working on IPS),          |
-| Networking          | OSI, Subnet, TCP/IP, HTTP/S, TLS, UDP, SSH              |
-| DevOps            | Docker, Linux, Gitlab, GH, Kubernetes      |
+| Security           | Kali Linux. Firewall(WAF)         |
+| Networking          | OSI, Subnet, Security/Internet Protocols              |
+| DevOps            | Docker, Linux, Gitlab      |
 | Front-End          | React, TypeScript                          |
 | Databases           | Postgres, MongoDB, LevelDB, Firebase       |
 | Deployment        | Heroku, AWS                                |
