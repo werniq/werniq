@@ -18,8 +18,5 @@ About me:
 | Currently Learning | Rust                                |
 | Other             | SOLID, Protocol Buffers                           |
 
-
-Telegram: <a href="https://t.me/usioa"> @werniq </a> <br>
-LinkedIn: <a href="https://www.linkedin.com/in/oleksandr-matviienko-4a7b16248/"> Oleksandr Matviienko </a> <br>
 Email: <a href="mailto:qniwwwersss@gmail.com"> qniwwwersss@gmail.com </a> <br>
 
