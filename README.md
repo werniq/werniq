@@ -15,7 +15,7 @@ About me:
 | Front-End          | React, TypeScript                          |
 | Databases           | Postgres, MongoDB, LevelDB, Firebase       |
 | Deployment        | Heroku, AWS                                |
-| Currently Learning | Rust                                |
+| Currently Learning | CI/CD                           |
 | Other             | SOLID, Protocol Buffers                           |
 
 Email: <a href="mailto:qniwwwersss@gmail.com"> qniwwwersss@gmail.com </a> <br>
