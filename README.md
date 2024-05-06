@@ -1,7 +1,7 @@
 
 About me:
 - I am proficient in writing APIs and Microservices (using gRPC) in Golang.
-- Interested in Security, and DevOps fields (See: <a href="https://github.com/werniq/qni-tools" >here</a>)
+- Interested in Cyber Security, DevOps and Blockchain fields (See: <a href="https://github.com/werniq/qni-tools" >here</a>)
 
 ## Skills
 | Domain            | Skills                                     |
